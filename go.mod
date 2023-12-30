@@ -1,4 +1,4 @@
-module auth-server-schemas
+module github.com/tty-monkey/auth-server-schemas
 
 go 1.21
 
